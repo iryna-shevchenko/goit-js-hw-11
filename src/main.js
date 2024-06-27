@@ -5,7 +5,10 @@ import 'izitoast/dist/css/iziToast.min.css';
 import SimpleLightbox from 'simplelightbox';
 import 'simplelightbox/dist/simple-lightbox.min.css';
 
-const API_KEY = '41511602-ac1f0d864a13fd01c911f294b';
+// import { handleFormSubmit } from './js/pixabay-api';
+// import { renderImages, createImageCard } from './js/render-functions';
+
+const API_KEY = '44479541-afd008fbdfda4a6c986ece69f';
 const searchFormElement = document.querySelector('.search-form');
 const galleryElement = document.querySelector('.gallery');
 const textInputElement = document.querySelector('.search-input');
